@@ -1,0 +1,4 @@
+<SUPER+SPACE>safari<ENTER><SLEEP 2>
+<SUPER+T><SLEEP 1>
+https://github.com/thies23/nanokvm-typer
+<ENTER><SLEEP 5><TAB><TAB><TAB><TAB><SPACE>
